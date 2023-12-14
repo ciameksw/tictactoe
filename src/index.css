@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  height: 100%;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto';
+}
+
+#root {
+  height: 100vh;
+  background-color: #31304D;
+}
